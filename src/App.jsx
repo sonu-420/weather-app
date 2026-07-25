@@ -13,6 +13,8 @@ function App() {
       <div>
         <h2>
           Weather App
+          <br/>
+           <a href='https://www.accuweather.com/en/in/silcoorie-grant/3168195/weather-forecast/3168195'>click here</a>to see the weather
         </h2>
       </div>
     </>
